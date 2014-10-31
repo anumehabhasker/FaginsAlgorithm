@@ -1,0 +1,12 @@
+To reproduce the experiment, follow either procedure 1 or procedure 2-
+
+Procedure 1
+(i) gcc run.c
+(ii) ./a.out
+
+Procedure 2
+(i) javac DataPreprocess.java
+(ii) java DataPreprocess
+(iii) javac Fagin.java
+(iv) java Fagin
+(v) rm *.class input original
